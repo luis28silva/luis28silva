@@ -5,7 +5,7 @@
 🎓 Estudante de desenvolvimento web  
 💻 Explorando HTML, CSS e JavaScript  
 🌱 Atualmente aprendendo React.js  
-📫 Contato: daiana_berlitz@hotmail.com  
+📫 Contato: lukartes28@gmail.com
 
 ---
 
