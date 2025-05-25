@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/800x200?text=Bem-vindo+ao+meu+GitHub)
+![Banner](https://i.imgur.com/I9oG7nK.png)
 
 ## 👋 Olá! Eu sou o Luís Renato da Silva
 
