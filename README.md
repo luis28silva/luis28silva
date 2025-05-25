@@ -1,4 +1,4 @@
-![Banner](https://github.com/luis28silva/luis28silva/raw/main/banner.jpg)
+![Banner](https://github.com/luis28silva/luis28silva/raw/main/Novo%20Projeto.jpg)
 
 ## 👋 Olá! Eu sou o Luís Renato da Silva
 
