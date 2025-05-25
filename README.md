@@ -1,16 +1,27 @@
-## Hi there 👋
+![Banner](https://via.placeholder.com/800x200?text=Bem-vindo+ao+meu+GitHub)
 
-<!--
-**luis28silva/luis28silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá! Eu sou o Luís Renato da Silva
 
-Here are some ideas to get you started:
+🎓 Estudante de desenvolvimento web  
+💻 Explorando HTML, CSS e JavaScript  
+🌱 Atualmente aprendendo React.js  
+📫 Contato: daiana_berlitz@hotmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias que uso
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+---
+
+### 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis28silva&show_icons=true&theme=tokyonight)
+
+---
+
+### 💡 Curiosidades sobre mim
+- Gosto de ensinar e aprender coisas novas  
+- Estou começando a construir meu portfólio  
+- Adoro tecnologia e design
