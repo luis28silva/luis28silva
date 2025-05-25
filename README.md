@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/I9oG7nK.png)
+https://github.com/luis28silva/luis28silva/blob/main/banner.jpg
 
 ## 👋 Olá! Eu sou o Luís Renato da Silva
 
